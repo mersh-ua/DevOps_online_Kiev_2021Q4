@@ -1,0 +1,20 @@
+bf89aee HEAD@{0}: checkout: moving from develop to master
+f0de574 HEAD@{1}: commit: add final merge screen
+bf89aee HEAD@{2}: checkout: moving from master to develop
+bf89aee HEAD@{3}: merge develop: Fast-forward
+7708c59 HEAD@{4}: checkout: moving from develop to master
+bf89aee HEAD@{5}: merge styles: Merge made by the 'recursive' strategy.
+26fad45 HEAD@{6}: commit: index was updated
+7d29f0e HEAD@{7}: checkout: moving from styles to develop
+60b5d29 HEAD@{8}: commit: main.css file was added
+7d29f0e HEAD@{9}: checkout: moving from develop to styles
+7d29f0e HEAD@{10}: commit: index file was updated
+d55f9bf HEAD@{11}: checkout: moving from images to develop
+d55f9bf HEAD@{12}: checkout: moving from develop to images
+d55f9bf HEAD@{13}: merge images: Fast-forward
+41d4c7b HEAD@{14}: checkout: moving from images to develop
+d55f9bf HEAD@{15}: commit: add images files in 2nd branch
+41d4c7b HEAD@{16}: checkout: moving from develop to images
+41d4c7b HEAD@{17}: commit: add second file in new branch
+7708c59 HEAD@{18}: checkout: moving from master to develop
+7708c59 HEAD@{19}: commit (initial): add first file
