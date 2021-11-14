@@ -15,7 +15,7 @@
 <li>2 GiB volume was created in the same zone such EPAM_2 instance and then was attached to EPAM_2:<p><img
  src=t2.2_EPAM_2_new_volume_creation.PNG><img
  src=t2.2_EPAM_2_new_volume_attach_menu.PNG>
-<li>New volume was monted as /disk_d in EPAM_2 instance, few files was created in mounted FS:<p><img
+<li>New volume was mounted as /disk_d in EPAM_2 instance, few files was created in mounted FS:<p><img
  src=t2.2_EPAM_2_new_volume_mount.PNG>
 <li>New volume was unmonted and detached from EPAM_2 instance:<p><img
  src=t2.2_EPAM_2_new_volume_detach_menu.PNG>
