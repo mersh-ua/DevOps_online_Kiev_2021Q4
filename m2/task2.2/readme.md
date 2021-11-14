@@ -10,7 +10,7 @@
 
 <h1>EPAM DevOps Curses</h1>
 <h2>Lab 2.2 AWS</h2>
-<h3>Part A</h3><span style=color:red>
+<h3>Part A</h3><span style=color:red>RED
 <h4><ol>
 <li>1st VM named as EPAM_1 was created by wizard of Amazon Lightsail:<p><img
  src=t2.2_EPAM_1_ssh.PNG><img
@@ -21,7 +21,9 @@
 <li>Snapshot of EPAM_2 was created:<img
  src=t2.2_EPAM_2_snapshot_menu.PNG><img
  src=t2.2_EPAM_2_snapshot_creation.PNG>
-<li>2 GiB volume was created in the same zone such EPAM_2 instance and then was attached to EPAM_2:<img src=t2.2_EPAM_2_new_volume_mount.PNG>
+<li>2 GiB volume was created in the same zone such EPAM_2 instance and then was attached to EPAM_2:<img
+ src=t2.2_EPAM_2_new_volume_creation.PNG><img
+ src=t2.2_EPAM_2_new_volume_attach_menu.PNG>
 <li>New volume was monted as /disk_d in EPAM_2 instance, few files was created in mounted FS:<img src=t2.2_EPAM_2_new_volume_mount.PNG>
 <img src=t2.2_EPAM_2_new_volume_mount.PNG>
 <li>New volume was monted as /disk_d in EPAM_2 instance, few files was created in mounted FS:
