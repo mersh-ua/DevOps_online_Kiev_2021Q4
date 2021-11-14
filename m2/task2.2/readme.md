@@ -12,7 +12,7 @@
 <h2>Lab 2.2 AWS</h2>
 <h3>Part A</h3><span style=color:red>RED
 <h4><ol>
-<li>1st VM named as EPAM_1 was created by wizard of Amazon Lightsail:<p><img
+<li><a>1st VM named as EPAM_1 was created by wizard of Amazon Lightsail:</a><p><img
  src=t2.2_EPAM_1_ssh.PNG><img
  src=t2.2_EPAM_1_statIP_18.205.133.118.PNG>
 <li>2nd VM named as EPAM_2 was created by EC2 interface as t2.micro instance:<p><img
