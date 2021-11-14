@@ -8,4 +8,4 @@
 <li>2 GiB volume was created in the same zone such EPAM_2 instance and then was attached to EPAM_2
 <li>New volume was monted as /disk_d in EPAM_2 instance, few files was created in mounted FS
 </ol>
-[](t2.2_EPAM_2_new_volume_mount.PNG)
+![](t2.2_EPAM_2_new_volume_mount.PNG)
