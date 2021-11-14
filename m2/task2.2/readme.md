@@ -9,4 +9,4 @@
 <li>New volume was monted as /disk_d in EPAM_2 instance, few files was created in mounted FS
 </ol>
 
-![screenshot](m2/task2.2/t2.2_EPAM_2_new_volume_mount.PNG)
+![screenshot](t2.2_EPAM_2_new_volume_mount.PNG)
