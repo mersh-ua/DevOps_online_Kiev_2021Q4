@@ -10,8 +10,8 @@
 
 <h1>EPAM DevOps Curses</h1>
 <h2>Lab 2.2 AWS</h2>
-<h3>Part A</h3><u>
-<h4 style=color:rgb(100,100,100)><ol>
+<h3>Part A</h3><span style=color:red>
+<h4><ol>
 <li>1st VM named as EPAM_1 was created by wizard of Amazon Lightsail:<p><img
  src=t2.2_EPAM_1_ssh.PNG><img
  src=t2.2_EPAM_1_statIP_18.205.133.118.PNG>
@@ -26,6 +26,6 @@
 <img src=t2.2_EPAM_2_new_volume_mount.PNG>
 <li>New volume was monted as /disk_d in EPAM_2 instance, few files was created in mounted FS:
 
-</ol></h4></u>
+</ol></h4></span>
 
 <h3>Part A</h3>
