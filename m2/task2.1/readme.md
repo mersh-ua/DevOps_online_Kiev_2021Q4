@@ -2,12 +2,15 @@
 <h2>Lab 2.1 VM</h2>
 <h3>Part A -- Virtual Box</h3>
 <h4><ol>
-<li>Screenshots bellow show VM1 in different states:<p><img
- src=t2.1_vm1_in_running_state.PNG><img
- src=t2.1_vm1_in_paused_state.PNG><img
- src=t2.1_vm1_in_saved_state.PNG><img
- src=t2.1_vm1_in_restart_process.PNG><img
- src=t2.1_vm1_in_stopped_state.PNG>
+<details><summary><li>Screenshots bellow show VM1 in different states:</summarwqy>
+
+ <img src=t2.1_vm1_in_running_state.PNG>
+ <img src=t2.1_vm1_in_paused_state.PNG>
+ <img src=t2.1_vm1_in_saved_state.PNG>
+ <img src=t2.1_vm1_in_restart_process.PNG>
+ <img src=t2.1_vm1_in_stopped_state.PNG>
+
+</details>
 <li> VM1 cloned in VM2, then them was grouped together:<p><img
  src=t2.1_vm1_was_cloned_in_wm2.PNG><img
  src=t2.1_vm1_was_grouped_with_wm2.PNG>
