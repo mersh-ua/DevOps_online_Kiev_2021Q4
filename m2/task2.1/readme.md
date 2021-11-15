@@ -34,6 +34,6 @@
 <img src=t2.1_vagrant_init.PNG>
 <img src=t2.1_vagrant_up.PNG></details>
 
-<details><summary>SSH connection to Vagrant VM before it was stopped</summary>:<p>
+<details><summary>SSH connection to Vagrant VM before it was stopped</summary><br>
 <img src=t2.1_vagrant_putty.PNG>
 <img src=t2.1_vagrant_halt.PNG></details>
