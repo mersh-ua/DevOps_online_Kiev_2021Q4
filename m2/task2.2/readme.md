@@ -40,6 +40,7 @@
  src=t2.2b_aws_configure_win64.PNG>
 <li>Docker container was created and launched:<p><img
  src=t2.2b_docker_installation.PNG><img
+ src=t2.2b_docker_dockerfile.PNG><img
  src=t2.2b_docker_info.PNG><img
  src=t2.2b_docker_http_connection.PNG>
 <li>Docker container was pushed to Amazon ECR repo:<p><img
