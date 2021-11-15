@@ -36,6 +36,13 @@ few files was created in mounted FS</summary><br>
 <img src=t2.2_ssh_to_EPAM_3.PNG>
 <img src=t2.2_EPAM_3_new_volume_mount.PNG></details>
 
+<details><summary>S3 repo was created, files stored in it and retrieved from it</summary><br>
+<img src=t2.2b_S3_files_uploaded_in_new_backet.PNG></details>
+
+<details><summary>AWS CLI was configured and used for files upload and download</summary><br>
+<img src=t2.2b_IAM_add_new_user.PNG>
+<img src=t2.2b_aws_configure_win64.PNG></details>
+
 <h3>Part B -- Application Extensions</h3>
 
 <details><summary>EPAM_4-WP instance with WordPress was
@@ -43,13 +50,6 @@ created and configured (Amazon Lightsail)</summary><br>
 <img src=t2.2b_WP_show_pwd.PNG>
 <img src=t2.2b_WP_home_page.PNG>
 <img src=t2.2b_WP_dns.PNG></details>
-
-<details><summary>S3 repo was created, files stored in it and retrieved from it</summary><br>
-<img src=t2.2b_S3_files_uploaded_in_new_backet.PNG></details>
-
-<details><summary>AWS CLI was configured and used for files upload and download</summary><br>
-<img src=t2.2b_IAM_add_new_user.PNG>
-<img src=t2.2b_aws_configure_win64.PNG></details>
 
 <details><summary>Docker container was created and launched</summary><br>
 <img src=t2.2b_docker_installation.PNG>
