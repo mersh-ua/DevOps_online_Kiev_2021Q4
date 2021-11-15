@@ -1,6 +1,6 @@
-#EPAM DevOps Courses
-##Lab 2.2 AWS
-###Part A -- Base Objects Managment
+<h1>EPAM DevOps Courses</h1>
+<h2>Lab 2.2 AWS</h2>
+<h3>Part A -- Base Objects Managment</h3>
 
 <details><summary>1st VM named as EPAM_1 was created by wizard of Amazon Lightsail</summary><br>
 <img src=t2.2_EPAM_1_ssh.PNG>
@@ -43,7 +43,7 @@ few files was created in mounted FS</summary><br>
 <img src=t2.2b_IAM_add_new_user.PNG>
 <img src=t2.2b_aws_configure_win64.PNG></details>
 
-###Part B -- Application Extensions
+<h3>Part B -- Application Extensions</h3>
 
 <details><summary>EPAM_4-WP instance with WordPress was
 created and configured (Amazon Lightsail)</summary><br>
