@@ -3,16 +3,21 @@
 <h3>Part A -- Virtual Box</h3>
 <h4>
 <details><summary>Screenshots bellow show VM1 in different states:</summary>
-
 <img src=t2.1_vm1_in_running_state.PNG>
 <img src=t2.1_vm1_in_paused_state.PNG>
 <img src=t2.1_vm1_in_saved_state.PNG>
 <img src=t2.1_vm1_in_restart_process.PNG>
 <img src=t2.1_vm1_in_stopped_state.PNG>
-</details><ol>
-<li> VM1 cloned in VM2, then them was grouped together:<p><img
+</details>
+
+<details><summary>VM1 cloned in VM2, then them was grouped together:</summary>
+
+<img
  src=t2.1_vm1_was_cloned_in_wm2.PNG><img
  src=t2.1_vm1_was_grouped_with_wm2.PNG>
+</details><ol>
+
+
 <li> Process of snapshot creation for VM1:<p><img
  src=t2.1_vm1_snapshot_creation.PNG>
 <li> USB drive connected to VM:<p><img
