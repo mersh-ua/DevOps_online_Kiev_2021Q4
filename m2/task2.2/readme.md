@@ -1,9 +1,9 @@
 
 <h1>EPAM DevOps Curses</h1>
 <h2>Lab 2.2 AWS</h2>
-<h3>Part A</h3><div style="color:green">
+<h3>Part A</h3>
 <h4><ol>
-<li><a>1st VM named as EPAM_1 was created by wizard of Amazon Lightsail:</a><p><img
+<li>1st VM named as EPAM_1 was created by wizard of Amazon Lightsail:<p><img
  src=t2.2_EPAM_1_ssh.PNG><img
  src=t2.2_EPAM_1_statIP_18.205.133.118.PNG>
 <li>2nd VM named as EPAM_2 was created by EC2 interface as t2.micro instance:<p><img
@@ -28,3 +28,17 @@
  src=t2.2_EPAM_3_new_volume_mount.PNG>
 </ol></h4>
 <h3>Part B</h3>
+<h4><ol>
+<li>EPAM_4-WP with WordPress was created and configured (Amazon Lightsail):<p><img
+ src=t2.2b_WP_show_pwd.PNG><img
+ src=t2.2b_WP_home_page.PNG><img
+ src=t2.2b_WP_dns.PNG>
+<li><img src=t2.2b_aws_configure_win64.PNG>
+<img src=t2.2b_docker_aws_repo_creation.PNG>
+<img src=t2.2b_docker_aws_repo_push.PNG>
+<img src=t2.2b_docker_http_connection.PNG>
+<img src=t2.2b_docker_info.PNG>
+<img src=t2.2b_docker_installation.PNG>
+<img src=t2.2b_IAM_add_new_user.PNG>
+<img src=t2.2b_S3_files_uploaded_in_new_backet.PNG>
+</ol></h4>
