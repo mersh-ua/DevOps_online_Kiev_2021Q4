@@ -4,7 +4,8 @@
 There are three areas of responsibility: Development - Operations - QA.
 DevOps is the person at the intersection of these areas.
 So he is a real anykey professional. In other words he is a hero nowadays.
-<p>Table of Contents<ul>
+<hr>Table of Contents
+<ul>
 <li><a href=m1/task1.1/readme.md>Lab 1.1
 <li><a href=m2/task2.1/readme.md>Lab 2.1
 <li><a href=m2/task2.2/readme.md>Lab 2.2
