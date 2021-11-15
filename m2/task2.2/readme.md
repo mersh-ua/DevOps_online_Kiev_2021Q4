@@ -1,4 +1,3 @@
-
 <h1>EPAM DevOps Curses</h1>
 <h2>Lab 2.2 AWS</h2>
 <h3>Part A</h3>
