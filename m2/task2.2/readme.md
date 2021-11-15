@@ -28,7 +28,7 @@
  src=t2.2_EPAM_3_new_volume_mount.PNG>
 </ol></h4>
 <h3>Part B</h3>
-<h4><ol>
+<h4><ol start=9>
 <li>EPAM_4-WP with WordPress was created and configured (Amazon Lightsail):<p><img
  src=t2.2b_WP_show_pwd.PNG><img
  src=t2.2b_WP_home_page.PNG><img
