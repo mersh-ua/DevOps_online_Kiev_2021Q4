@@ -3,6 +3,7 @@
 <h3>Part A -- Virtual Box</h3>
 
 <details>
+
 <summary>Screenshots bellow show VM1 in different states:</summary>
 <img src=t2.1_vm1_in_running_state.PNG>
 <img src=t2.1_vm1_in_paused_state.PNG>
