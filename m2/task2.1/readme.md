@@ -13,12 +13,14 @@
 <img src=t2.1_vm1_was_grouped_with_wm2.PNG>
 <li> Process of snapshot creation for VM1:<p>
 <img src=t2.1_vm1_snapshot_creation.PNG>
-<li> USB drive connecte to VM:<p>
+<li> USB drive connected to VM:<p>
 <img src=t2.1_vm1_USB_flash_was_mounted.PNG>
-<li> Shared folder for data exchane beetween guest and host OS:<p>
+<li> Shared folder for data exchange between guest and host OS:<p>
 <img src=t2.1_vm_shared_directory_settings.PNG>
 <img src=t2.1_vm_shared_directory_host_OS.PNG>
 <img src=t2.1_vm_shared_directory_guest_OS.PNG>
+<li> You can use CLI to manage VM<p>
+<img src=t2.1_vbox_CLI.PNG>
 </ol></h4>
 <h3>Part B -- Vagrant</h3>
 <h4><ol>
