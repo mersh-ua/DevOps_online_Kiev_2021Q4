@@ -8,12 +8,13 @@
 <img src=t2.1_vm1_in_saved_state.PNG>
 <img src=t2.1_vm1_in_restart_process.PNG>
 <img src=t2.1_vm1_in_stopped_state.PNG>
-
-<li> Process of snapshot creaton for VM1:<p>
+<li> Process of snapshot creation for VM1:<p>
 <img src=t2.1_vm1_snapshot_creation.PNG>
-<img src=t2.1_vm1_USB_flash_was_mounted.PNG>
+<li> VM1 cloned in VM2, then them was grouped together:<p>
 <img src=t2.1_vm1_was_cloned_in_wm2.PNG>
 <img src=t2.1_vm1_was_grouped_with_wm2.PNG>
+<li> USB:<p>
+<img src=t2.1_vm1_USB_flash_was_mounted.PNG>
 <img src=t2.1_vm_shared_directory_guest_OS.PNG>
 <img src=t2.1_vm_shared_directory_host_OS.PNG>
 <img src=t2.1_vm_shared_directory_settings.PNG>
