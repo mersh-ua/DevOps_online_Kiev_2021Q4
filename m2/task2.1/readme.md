@@ -10,12 +10,9 @@
 <img src=t2.1_vm1_in_restart_process.PNG>
 <img src=t2.1_vm1_in_stopped_state.PNG>
 
-
 <summary>VM1 cloned in VM2, then them was grouped together:</summary>
 <img src=t2.1_vm1_was_cloned_in_wm2.PNG>
 <img src=t2.1_vm1_was_grouped_with_wm2.PNG>
-</details>
-
 
 <summary>Process of snapshot creation for VM1:</summary>
 <img src=t2.1_vm1_snapshot_creation.PNG>
