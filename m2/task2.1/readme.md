@@ -1,11 +1,28 @@
 <h1>EPAM DevOps Courses</h1>
 <h2>Lab 2.1 VM</h2>
-<h3>Part A</h3>
-<h4><ol>VirtualBox:<p><img
- src=>
-</h4></ol>
-<h3>Part B</h3>
-<h4><ol>Vagrant:<p><img
- src=>
-</h4></ol>
-<p>This directory contains the results of lab work with the VirtualBox and Vagrant software.
+<h3>Part A -- Virtual Box</h3>
+<h4><ol>
+<li>Screenshots bellow show VM1 in different states:<p>
+<img src=t2.1_vm1_in_running_state.PNG>
+<img src=t2.1_vm1_in_paused_state.PNG>
+<img src=t2.1_vm1_in_saved_state.PNG>
+<img src=t2.1_vm1_in_restart_process.PNG>
+<img src=t2.1_vm1_in_stopped_state.PNG>
+
+<li> Process of snapshot creaton for VM1:<p>
+<img src=t2.1_vm1_snapshot_creation.PNG>
+<img src=t2.1_vm1_USB_flash_was_mounted.PNG>
+<img src=t2.1_vm1_was_cloned_in_wm2.PNG>
+<img src=t2.1_vm1_was_grouped_with_wm2.PNG>
+<img src=t2.1_vm_shared_directory_guest_OS.PNG>
+<img src=t2.1_vm_shared_directory_host_OS.PNG>
+<img src=t2.1_vm_shared_directory_settings.PNG>
+</ol></h4>
+<h3>Part B -- Vagrant</h3>
+<h4><ol>
+<img src=t2.1_vagrant_halt.PNG>
+<img src=t2.1_vagrant_init.PNG>
+<img src=t2.1_vagrant_path.PNG>
+<img src=t2.1_vagrant_putty.PNG>
+<img src=t2.1_vagrant_up.PNG>
+</ol></h4>
