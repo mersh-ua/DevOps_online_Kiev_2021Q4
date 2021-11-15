@@ -2,28 +2,25 @@
 <h2>Lab 2.1 VM</h2>
 <h3>Part A -- Virtual Box</h3>
 
-<details><summary>Screenshots bellow show VM1 in different states:</summary>
-
+<details>
+<summary>Screenshots bellow show VM1 in different states:</summary>
 <img src=t2.1_vm1_in_running_state.PNG>
 <img src=t2.1_vm1_in_paused_state.PNG>
 <img src=t2.1_vm1_in_saved_state.PNG>
 <img src=t2.1_vm1_in_restart_process.PNG>
 <img src=t2.1_vm1_in_stopped_state.PNG>
-#</details>
-#<details>
+
 
 <summary>VM1 cloned in VM2, then them was grouped together:</summary>
-
 <img src=t2.1_vm1_was_cloned_in_wm2.PNG>
 <img src=t2.1_vm1_was_grouped_with_wm2.PNG>
 </details>
 
 
-<details><summary>Process of snapshot creation for VM1:</summary>
+<summary>Process of snapshot creation for VM1:</summary>
 <img src=t2.1_vm1_snapshot_creation.PNG>
-</details>
 
-<details><summary> USB drive connected to VM:</summary>
+<summary> USB drive connected to VM:</summary>
 <img src=t2.1_vm1_USB_flash_was_mounted.PNG>
 </details>
 
