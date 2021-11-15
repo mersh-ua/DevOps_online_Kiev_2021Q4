@@ -33,12 +33,14 @@
  src=t2.2b_WP_show_pwd.PNG><img
  src=t2.2b_WP_home_page.PNG><img
  src=t2.2b_WP_dns.PNG>
-<li><img src=t2.2b_aws_configure_win64.PNG>
+<li>S3 repo was created, files was stored in and retrived from it:<p><img
+ src=t2.2b_S3_files_uploaded_in_new_backet.PNG>
+<li>AWS CLI configured was and was used for files upload and download:<p><img
+ src=t2.2b_IAM_add_new_user.PNG><img
+ src=t2.2b_aws_configure_win64.PNG>
 <img src=t2.2b_docker_aws_repo_creation.PNG>
 <img src=t2.2b_docker_aws_repo_push.PNG>
 <img src=t2.2b_docker_http_connection.PNG>
 <img src=t2.2b_docker_info.PNG>
 <img src=t2.2b_docker_installation.PNG>
-<img src=t2.2b_IAM_add_new_user.PNG>
-<img src=t2.2b_S3_files_uploaded_in_new_backet.PNG>
 </ol></h4>
