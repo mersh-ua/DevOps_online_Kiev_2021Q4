@@ -19,14 +19,16 @@
 <img src=t2.1_vm_shared_directory_settings.PNG>
 <img src=t2.1_vm_shared_directory_host_OS.PNG>
 <img src=t2.1_vm_shared_directory_guest_OS.PNG>
-<li> You can use CLI to manage VM<p>
+<li> You can use CLI to manage VM:<p>
 <img src=t2.1_vbox_CLI.PNG>
 </ol></h4>
 <h3>Part B -- Vagrant</h3>
-<h4><ol>
-<img src=t2.1_vagrant_halt.PNG>
-<img src=t2.1_vagrant_init.PNG>
+<h4><ol start=7>
+<li> Vagrant configured and started up:<p>
 <img src=t2.1_vagrant_path.PNG>
-<img src=t2.1_vagrant_putty.PNG>
+<img src=t2.1_vagrant_init.PNG>
 <img src=t2.1_vagrant_up.PNG>
+<li> SSH connection to Vagrant VM before it was stopped:<p>
+<img src=t2.1_vagrant_putty.PNG>
+<img src=t2.1_vagrant_halt.PNG>
 </ol></h4>
