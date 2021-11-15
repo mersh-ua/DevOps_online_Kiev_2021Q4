@@ -29,18 +29,20 @@
 </ol></h4>
 <h3>Part B</h3>
 <h4><ol start=9>
-<li>EPAM_4-WP with WordPress was created and configured (Amazon Lightsail):<p><img
+<li>EPAM_4-WP instance with WordPress was created and configured (Amazon Lightsail):<p><img
  src=t2.2b_WP_show_pwd.PNG><img
  src=t2.2b_WP_home_page.PNG><img
  src=t2.2b_WP_dns.PNG>
-<li>S3 repo was created, files was stored in and retrived from it:<p><img
+<li>S3 repo was created, files stored in it and retrieved from it:<p><img
  src=t2.2b_S3_files_uploaded_in_new_backet.PNG>
-<li>AWS CLI configured was and was used for files upload and download:<p><img
+<li>AWS CLI was configured and used for files upload and download:<p><img
  src=t2.2b_IAM_add_new_user.PNG><img
  src=t2.2b_aws_configure_win64.PNG>
-<img src=t2.2b_docker_aws_repo_creation.PNG>
-<img src=t2.2b_docker_aws_repo_push.PNG>
-<img src=t2.2b_docker_http_connection.PNG>
-<img src=t2.2b_docker_info.PNG>
-<img src=t2.2b_docker_installation.PNG>
+<li>Docker container was created and launched:<p><img
+ src=t2.2b_docker_installation.PNG><img
+ src=t2.2b_docker_info.PNG><img
+ src=t2.2b_docker_http_connection.PNG>
+<li>Docker container was pushed to Amazon ECR repo:<p><img
+ src=t2.2b_docker_aws_repo_creation.PNG><img
+ src=t2.2b_docker_aws_repo_push.PNG>
 </ol></h4>
