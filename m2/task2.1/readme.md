@@ -19,9 +19,8 @@
 
 <summary> USB drive connected to VM:</summary>
 <img src=t2.1_vm1_USB_flash_was_mounted.PNG>
-</details>
 
-<details><summary> Shared folder for data exchange between guest and host OS:</summary>
+<summary> Shared folder for data exchange between guest and host OS:</summary>
 <img src=t2.1_vm_shared_directory_settings.PNG>
 <img src=t2.1_vm_shared_directory_host_OS.PNG>
 <img src=t2.1_vm_shared_directory_guest_OS.PNG>
