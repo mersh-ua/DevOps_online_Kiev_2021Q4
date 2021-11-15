@@ -2,7 +2,7 @@
 <h2>Lab 2.1 VM</h2>
 <h3>Part A -- Virtual Box</h3>
 <h4><ol>
-<details><summary><li>Screenshots bellow show VM1 in different states:</summarwqy>
+<details><summary><li>Screenshots bellow show VM1 in different states:</summary>
 
  <img src=t2.1_vm1_in_running_state.PNG>
  <img src=t2.1_vm1_in_paused_state.PNG>
