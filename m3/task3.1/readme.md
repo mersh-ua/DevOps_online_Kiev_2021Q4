@@ -9,3 +9,5 @@
 
 <details><summary>'Home Office' network was created and tested by ping</summary><br>
 <img src=t3.1_ping_home.png></details>
+
+<a href=../task3.2/readme.md>Next: Lab 3.2<.a>
