@@ -11,4 +11,8 @@ So he is a real anykey professional. In other words he is a hero nowadays.
 <li><h4><a href=m1/task1.1/readme.md>Lab 1.1 Git</a></h4>
 <li><h4><a href=m2/task2.1/readme.md>Lab 2.1 VM</a></h4>
 <li><h4><a href=m2/task2.2/readme.md>Lab 2.2 AWS</a></h4>
+<li><h4><a href=m3/task3.1/readme.md>Lab 3.1 Networking</a></h4>
+<li><h4><a href=m3/task3.2/readme.md>Lab 3.2 Networking</a></h4>
+<li><h4><a href=m3/task3.3/readme.md>Lab 3.3 Networking</a></h4>
+<li><h4><a href=m3/task3.4/readme.md>Lab 3.4 Networking</a></h4>
 </ul>
