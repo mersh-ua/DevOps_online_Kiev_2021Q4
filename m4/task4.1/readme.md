@@ -1,8 +1,8 @@
 <h1>EPAM DevOps Courses</h1>
 <h2>Lab 4.1 Databases</h2>
 
-<details><summary>'Enterprise' network was created and tested by ping</summary><br>
-<img src=t4.1_db_schema.png></details>
+<details><summary>Database schema and tables creation</summary><br>
+<img src=t4.1_db_schema.png>
 
 |H1|H2|
 |--|-|
@@ -41,3 +41,5 @@ REFERENCES `students` (`student_id`);
 ALTER TABLE `labs` ADD CONSTRAINT `fk_labs_subj_id` FOREIGN KEY(`subj_id`)
 REFERENCES `academic_subjects` (`subj_id`);
 ```
+
+</details>
