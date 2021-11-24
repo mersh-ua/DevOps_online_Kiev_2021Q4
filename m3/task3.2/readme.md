@@ -7,6 +7,7 @@
 <img src=t3.2_ping_isp2.png>
 <img src=t3.2_ping_isp3.png>
 </details>
+
 |Prev|Next|
 |----|----|
 |<a href=../task3.1/readme.md>Lab 3.1</a>

@@ -1,13 +1,8 @@
 <h1>EPAM DevOps Courses</h1>
 <h2>Lab 4.1 Databases</h2>
 
-<details><summary>Database schema and tables creation</summary><br>
+<details><summary>Database schema and tables creation script</summary><br>
 <img src=t4.1_db_schema.png>
-
-|H1|H2|
-|--|-|
-|abc|123|
-|xyz|000|
 
 
 ```sql
