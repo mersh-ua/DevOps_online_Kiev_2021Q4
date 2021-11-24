@@ -44,9 +44,6 @@ REFERENCES `academic_subjects` (`subj_id`);
 </details>
 
 <details><summary>Data insertion</summary><br>
-<img src=t4.1_run_insert.png>
-<img src=t4.1_select.png>
-<img src=t4.1_select2.png>
 
 ```sql
 USE epam;
@@ -78,4 +75,7 @@ VALUES(1,1,'Lab X',true),
       (5,7,'Lab H',true);
 ```
 
+<img src=t4.1_run_insert.png>
+<img src=t4.1_select.png>
+<img src=t4.1_select2.png>
 </details>
