@@ -9,4 +9,7 @@
 <details><summary>NAT</summary><br>
 <img src=t3.4_nat.png>
 </details>
-Prev: <a href=../task3.3/readme.md>Lab 3.3</a>
+
+|Prev|Next|
+|----|----|
+|<a href=../task3.3/readme.md>Lab 3.3</a>||
