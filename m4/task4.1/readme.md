@@ -79,3 +79,17 @@ VALUES(1,1,'Lab X',true),
 <img src=t4.1_select.png>
 <img src=t4.1_select2.png>
 </details>
+
+<details><summary>Complex query</summary><br>
+
+```sql
+use epam;
+
+select students.student_name, academic_subjects.subj_name, labs.lab_code, labs.lab_status
+ from students, academic_subjects, labs
+ where students.student_id = labs.student_id and labs.subj_id = academic_subjects.subj_id
+ order by labs.lab_status;
+```
+
+<img src=t4.1_order.png>
+</details>
