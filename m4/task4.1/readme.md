@@ -39,5 +39,5 @@ REFERENCES `academic_subjects` (`subj_id`);
 
 <details><summary>Database creation</summary><br>
 <img src=t4.1_run_sql.png>
-<img src=t4.1_schow.png>
+<img src=t4.1_show.png>
 </details>
