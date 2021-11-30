@@ -2,9 +2,6 @@
 ## Lab 4.1 Databases</h2>
 ### Part A -- Local database exercises
 
-<h1>EPAM DevOps Courses</h1>
-<h2>Lab 4.1 Databases</h2>
-
 <details><summary>Database schema and script for it creation</summary><br>
 <img src=t4.1_db_schema.png>
 
@@ -97,9 +94,12 @@ select students.student_name, academic_subjects.subj_name, labs.lab_code, labs.l
 
 <img src=t4.1_order.png>
 </details>
-t4.1_rds_db_creation.png
-t4.1_rds_db_secyrity.png
-t4.1_rds_mysql_from_win.png
+
+### Part B -- RDS AWS database exercises
+
+![]( t4.1_rds_db_creation.png )
+![ ]( t4.1_rds_db_secyrity.png )
+![ ] ( t4.1_rds_mysql_from_win.png )
 t4.1_rds_mysql_restore_from_sqldump_file.png
 t4.1_rds_mysql_select_from_restored_data.png
 t4.1_rds_sg.png
