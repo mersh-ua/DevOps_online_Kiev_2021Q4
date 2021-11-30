@@ -93,3 +93,9 @@ select students.student_name, academic_subjects.subj_name, labs.lab_code, labs.l
 
 <img src=t4.1_order.png>
 </details>
+t4.1_rds_db_creation.png
+t4.1_rds_db_secyrity.png
+t4.1_rds_mysql_from_win.png
+t4.1_rds_mysql_restore_from_sqldump_file.png
+t4.1_rds_mysql_select_from_restored_data.png
+t4.1_rds_sg.png
