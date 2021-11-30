@@ -104,10 +104,14 @@ select students.student_name, academic_subjects.subj_name, labs.lab_code, labs.l
 ![](t4.1_rds_sg.png)
 
 </details>
-<details><summary>Connection to RDS AWS database CLI and restore data from backup</summary><br>
+<details><summary>Connection to RDS AWS database CLI and data restore from local backup</summary><br>
 
 ![](t4.1_rds_mysql_from_win.png)
 ![](t4.1_rds_mysql_restore_from_sqldump_file.png)
+
+</details>
+<details><summary>Complex query</summary><br>
+
 ![](t4.1_rds_mysql_select_from_restored_data.png)
 
 </details>
