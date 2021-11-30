@@ -97,11 +97,14 @@ select students.student_name, academic_subjects.subj_name, labs.lab_code, labs.l
 
 ### Part B -- RDS AWS database exercises
 
-![]( t4.1_rds_db_creation.png , "screenshot" )
+<details><summary>RDS AWS database creation and inbound network security police modification</summary><br>
+![](t4.1_rds_db_creation.png)
 ![](t4.1_rds_db_secyrity.png)
+![](t4.1_rds_sg.png)
 ![](t4.1_rds_mysql_from_win.png)
 ![](t4.1_rds_mysql_restore_from_sqldump_file.png)
 ![](t4.1_rds_mysql_select_from_restored_data.png)
 ![](t4.1_rds_sg.png)
+</details>
 
 ### Part C -- Amazon DynamoDB exercises
