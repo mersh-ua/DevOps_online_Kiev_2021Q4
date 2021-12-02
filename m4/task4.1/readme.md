@@ -117,3 +117,8 @@ select students.student_name, academic_subjects.subj_name, labs.lab_code, labs.l
 </details>
 
 ### Part C -- Amazon DynamoDB exercises
+
+![](t4.1_dynamo-db_table_creation.png)
+![](t4.1_dynamo-db_attribute_creation.png)
+![](t4.1_dynamo-db_item_creation.png)
+![](t4.1_dynamo-db_data_entering.png)
