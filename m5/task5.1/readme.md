@@ -30,22 +30,20 @@ In the example below we use the tee utility to duplicate the output of another c
 
 ![](t5.1.B.locate.df.grep.tee.PNG)
 
-find can search files by type, inode, timestamps, owner, group, permissions and surprise(!!!) by name:
+find can search files by type, inode number, timestamps, owner, group, permissions and you'll be surprise (!!!) by name:
 
 ![](t5.1.B.find_host.PNG)
 ![](t5.1.B.find_ss.less.PNG)
 
 UNIX have 7 type of files:
-
---
-
+__
 - regular;
 - directory;
-- device (block and character);
+- device (block or character);
 - symbolic link;
 - named pipe;
--socket;
--door (only Solaris nowadays).
+- socket;
+- door (nowadays supported only in Solaris).
 
 ![](t5.1.B.13.PNG)
 
