@@ -14,10 +14,14 @@
 
 <details><summary>Basics of UNIX file system, search and navigation</summary>
 
-ls is very useful and power utility such as a lot of another UNIX utilities like cp, rm and cat. Bash have few buildin commands such as cd or pwd which we need every day.
+ls is a very useful and powerful utility like many other UNIX utilities such as cp, rm and cat. Bash have several built-in commands such as cd or pwd that we need every day.
+
 ![](t5.1.B.tree.root.PNG)
 ![](t5.1.B.file.ls.rel.abs.pahtes.PNG)
 ![](t5.1.B.5.PNG)
+
+We use the same ln command to creation of hard and soft links.
+
 ![](t5.1.B.6.PNG)
 
 Size of symbolic link file is equal for length of target file name. In our example above length of target file name is 8 (labwork2).<br>
