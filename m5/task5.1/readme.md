@@ -14,7 +14,7 @@
 
 <details><summary>Basics of UNIX file system, search and navigation</summary>
 
-<p>ls is a very useful and powerful utility like many other UNIX utilities such as cp, rm and cat. Bash have several built-in commands such as cd or echo that we need every day.
+<br>ls is a very useful and powerful utility like many other UNIX utilities such as cp, rm and cat. Bash have several built-in commands such as cd or echo that we need every day.
 
 ![](t5.1.B.tree.root.PNG)
 ![](t5.1.B.file.ls.rel.abs.pahtes.PNG)
