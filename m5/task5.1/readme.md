@@ -1,25 +1,12 @@
-<h1>EPAM DevOps Curses</h1>
-
-<h2>Lab 5.1 _____</h2>
-<h3>Part I</h3>
-<h3>Part II</h3>
-<h3>Part III</h3>
-
-<h2>Lab 5.2 _____</h2>
-<h3>Part I</h3>
-<h3>Part II</h3>
-<h3>Part III</h3>
+# EPAM DevOps Curses
+## Lab 5.1 UNIX
+### Part A
 
 <details><summary>Touch me</summary>
 Look on me
+
+![](t5.1.A.login.PNG)
+![](t5.1.A.bashrc.ls.w.PNG)
+![](t5.1.A.man.wc.passwd.PNG)
+
 </details>
-
-**bold**
-
-<a href=../../readme.md><img src=../../devops.png></a>
-
-|A|B|C|
-|-|-|-|
-|f1|f22|f1233|
-|dfsdfsd|fdsfsd|fsdfsd|
-
