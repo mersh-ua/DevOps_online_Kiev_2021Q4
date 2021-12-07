@@ -19,7 +19,8 @@
 ![](t5.1.B.5.PNG)
 ![](t5.1.B.6.PNG)
 
-Size of symbolic link file is equal for length of target file name. In our example above length of target file name is 8 (labwork2).
+Size of symbolic link file is equal for length of target file name. In our example above length of target file name is 8 (labwork2).<p>
+Symbolic link will be broken if target file will be deleted.<p>
 In the example below we use the tee utility to duplicate the output of another command (on the left of tee) to the console. This command is inside the pipeline but first we see its output. This is because bash have to wait when pipeline done.
 
 ![](t5.1.B.locate.df.grep.tee.PNG)
