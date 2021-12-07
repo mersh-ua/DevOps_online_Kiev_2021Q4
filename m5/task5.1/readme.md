@@ -2,8 +2,7 @@
 ## Lab 5.1 UNIX
 ### Part A
 
-<details><summary>Touch me</summary>
-Look on me
+<details><summary>How to make logon to system, change password and use man</summary>
 
 ![](t5.1.A.login.PNG)
 ![](t5.1.A.bashrc.ls.w.PNG)
@@ -13,8 +12,7 @@ Look on me
 
 ### Part B
 
-<details><summary>Touch me</summary>
-Look on me
+<details><summary>Basics of UNIX file system, search and navigation</summary>
 
 ![](t5.1.B.tree.root.PNG)
 ![](t5.1.B.file.ls.rel.abs.pahtes.PNG)
