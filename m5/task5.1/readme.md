@@ -10,3 +10,19 @@ Look on me
 ![](t5.1.A.man.wc.passwd.PNG)
 
 </details>
+
+### Part B
+
+<details><summary>Touch me</summary>
+Look on me
+
+![](t5.1.B.13.PNG)
+![](t5.1.B.5.PNG)
+![](t5.1.B.6.PNG)
+![](t5.1.B.file.ls.rel.abs.pahtes.PNG)
+![](t5.1.B.find_host.PNG)
+![](t5.1.B.find_ss.less.PNG)
+![](t5.1.B.locate.df.grep.tee.PNG)
+![](t5.1.B.tree.root.PNG)
+
+</details>
