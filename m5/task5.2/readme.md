@@ -27,7 +27,7 @@
 </details>
 
 <details><summary>umask</summary>
-<br><p>You can define the value of file permissions (modes) by default. You wiil know that umask work with directories in another way like as other files.
+<br><p>You can define the default value of the file permissions (modes) that will be set when a new file is created. You should be aware that locking the eXecute bit with umask can impact proper directories creation.
 
 ![](t5.2.umask.PNG)
 </details>
