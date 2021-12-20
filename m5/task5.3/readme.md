@@ -32,3 +32,7 @@
 <a href=../../m2/task2.1/readme.md><img src=../../m2/task2.1/t2.1_vagrant_putty.PNG></a>
 
 </details>
+
+|Prev|Next|
+|----|----|
+|<a href=../task5.3/readme.md>Lab 5.3</a>||

@@ -47,3 +47,7 @@ UNIX have 7 type of files:
 ![](t5.1.B.13.PNG)
 
 </details>
+
+|Prev|Next|
+|----|----|
+||<a href=../task5.2/readme.md>Lab 5.2</a>|

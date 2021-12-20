@@ -1,5 +1,5 @@
 # EPAM DevOps Curses
-## Lab 5.2 UNIX / How to manage user accounts. Understanding file permissions (modes) in UNIX.
+## Lab 5.2 UNIX / How to manage user accounts. Understanding file permissions (modes).
 
 <details><summary>/etc/passwd and /etc/group</summary>
 <br><p>There are two main files that are used to separate privileges.
@@ -31,3 +31,7 @@
 
 ![](t5.2.umask.PNG)
 </details>
+
+|Prev|Next|
+|----|----|
+|<a href=../task5.1/readme.md>Lab 5.1</a>|<a href=../task5.3/readme.md>Lab 5.3</a>|
