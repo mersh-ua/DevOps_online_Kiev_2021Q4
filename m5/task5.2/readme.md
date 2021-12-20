@@ -20,14 +20,14 @@
 
 ![](t5.2.ch.own.grp.PNG)
 ![](t5.2.passwd+group-r.PNG)
-<p>Every file in UNIX has 4 sets of these permissions: special bits, for owner, for group anf for others
+<p>Every file in UNIX has 4 sets of these permissions: for special bits, for owner, for group and for others
 
 ![](t5.2.owner.group.others.PNG)
 ![](t5.2.SUID+t.PNG)
 </details>
 
 <details><summary>umask</summary>
-<br><p>
+<br><p>You can define the value of file permissions (modes) by default. You wiil know that umask work with directories in another way like as other files.
 
 ![](t5.2.umask.PNG)
 </details>
