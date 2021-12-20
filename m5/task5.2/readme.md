@@ -1,7 +1,7 @@
 # EPAM DevOps Curses
 ## Lab 5.2 UNIX
 
-<details><summary>How to make logon to system, change password and use man</summary>
+<details><summary>How to manage user accounts. Understanding file permissions (modes) in UNIX.</summary>
 
 ![](t5.2.ch.own.grp.PNG)
 ![](t5.2.owner.group.others.PNG)
