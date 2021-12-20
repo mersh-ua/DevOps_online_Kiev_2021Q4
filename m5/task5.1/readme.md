@@ -36,7 +36,6 @@ find can search files by type, inode number, timestamps, owner, group, permissio
 ![](t5.1.B.find_ss.less.PNG)
 
 UNIX have 7 type of files:
-__
 - regular;
 - directory;
 - device (block or character);
