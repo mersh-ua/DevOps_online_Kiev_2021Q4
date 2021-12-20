@@ -8,7 +8,7 @@
 
 ![](t5.2.passwd.group.png)
 
-<p>We can use adduser or useradd commands for adding user:
+<p>We can use adduser or useradd commands for adding user. You can change user account properties by usermod command. /etc/skel/ contains base files for user home directory:
 
 ![](t5.2.user.add.png)
 ![](t5.2.user.mod.skel.modes.png)
