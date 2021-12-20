@@ -16,11 +16,12 @@
 </details>
 
 <details><summary>chmod, chown and chgrp</summary>
-<br><p>Every file in UNIX have 3 basic permissions: Read, Write and eXecute
-<p>Every file in UNIX have 4 sets of this permission: for owner, for group, for other and special bits
+<br><p>Every file in UNIX has 3 basic permissions: Read, Write and eXecute
 
 ![](t5.2.ch.own.grp.PNG)
 ![](t5.2.passwd+group-r.PNG)
+<p>Every file in UNIX has 4 sets of these permissions: special bits, for owner, for group anf for others
+
 ![](t5.2.owner.group.others.PNG)
 ![](t5.2.SUID+t.PNG)
 </details>
