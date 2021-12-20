@@ -27,7 +27,7 @@
 
 <details><summary>How to secure an SSH connection</summary>
 
-<p>We did the same manipulations with SSH in the Lab 2.1 Part B:
+<br><p>We did the same manipulations with SSH in the Lab 2.1 Part B:
 
 <a href=../../m2/task2.1/readme.md><img src=../../m2/task2.1/t2.1_vagrant_putty.PNG></a>
 
