@@ -35,4 +35,4 @@
 
 |Prev|Next|
 |----|----|
-|<a href=../task5.3/readme.md>Lab 5.3</a>||
+|<a href=../task5.2/readme.md>Lab 5.2</a>||
