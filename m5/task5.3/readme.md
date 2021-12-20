@@ -4,7 +4,7 @@
 
 <details><summary>How to manage processes in UNIX</summary>
 
-<p>pstree utility shows parent processes and theirs childs:
+<br><p>pstree utility shows parent processes and theirs childs:
 
 ![](t5.3.A.pstree.PNG)
 
