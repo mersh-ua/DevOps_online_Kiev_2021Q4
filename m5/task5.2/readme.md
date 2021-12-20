@@ -16,12 +16,17 @@ There are two main files that are used to separate privileges.
 ![](t5.2.user.mod.skel.modes.png)
 
 </details>
-<p>
 
+<details><summary>chmod, chown and chgrp</summary>
+<p>Every file in UNIX have 3 basic permissions: Read, Write and eXecute
+<p>Every file in UNIX have 4 sets of this permission: for owner, for group, for other and special bits
 ![](t5.2.ch.own.grp.PNG)
-![](t5.2.owner.group.others.PNG)
 ![](t5.2.passwd+group-r.PNG)
+![](t5.2.owner.group.others.PNG)
 ![](t5.2.SUID+t.PNG)
-![](t5.2.umask.PNG)
+</details>
 
+<details><summary>umask</summary>
+<p>
+![](t5.2.umask.PNG)
 </details>
