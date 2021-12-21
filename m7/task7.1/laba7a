@@ -1,0 +1,7 @@
+case $1 in
+--all)    echo block1;;
+--target) echo block2;;
+*) echo "Usage: ${0##*/} --all | --target <IP>"; exit 1;;
+esac
+
+
