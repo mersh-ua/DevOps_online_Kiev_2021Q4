@@ -32,7 +32,7 @@
 ![](t5.2.umask.PNG)
 </details>
 
-<details><summary>What file permissions should present for command script</summary>
+<details><summary>what file permissions should present for command script</summary>
 <br><p>Most important file mode for file with script is Read.
 You need it when start script. For example: bash my_script
 <p>If you want start this script independity then you must add eXecute permission.
