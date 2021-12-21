@@ -36,6 +36,8 @@
 <br><p>Most important file mode for file with script is Read.
 You need it when start script. For example: bash my_script
 <p>If you want start this script independity then you must add eXecute permission.
+
+![](t5.2.script.modes.png)
 </details>
 
 |Prev|Next|
