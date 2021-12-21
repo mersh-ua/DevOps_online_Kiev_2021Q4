@@ -2,7 +2,7 @@
 ## Lab 5.3 UNIX
 ### Part A
 
-<details><summary>How to manage processes in UNIX</summary>
+<details><summary>How to manage processes</summary>
 
 <br><p>pstree utility shows parent processes and theirs childs:
 

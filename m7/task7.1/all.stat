@@ -1,0 +1,57 @@
+#!/usr/bin/awk -f
+
+#INPUT SECTION
+# client IPs counter
+{ip[$1]++}
+
+# requested URL counter
+{url[$7]++}
+
+# error 404 counter
+$9==404 {scode[$7]++}
+
+# requetsts counter for every 24 hours
+{hrs[substr($4,14,2)]++}
+
+# bot counters and IP+UA array
+{ ua=substr($0,index($0,$12))
+  if (ua~/bot/ && ua!~/robot/) {
+    bot[n++]=$1"\t"ua
+    botip[$1]++
+    botua[ua]++ }
+}
+
+#OUTPUT SECTION
+END {
+  # IP
+  max=0
+  for (i in ip) {
+    print i"\t("ip[i]")";
+    if (ip[i]>max) {max=ip[i];imax=i}
+  }
+  print "Most requests from IP: "imax"\t("ip[imax]")"
+
+  # URL
+  max=0
+  for (i in url) if (url[i]>max) {max=url[i];imax=i}
+  print "Most requested URL: "imax"\t("url[imax]")"
+
+  # 404
+  for (i in scode) print i"\t("scode[i]")"
+
+  # time
+  max=0
+  for (i in hrs) if (hrs[i]>max) {max=hrs[i];imax=i}
+  print "Most requested hour: "imax"\t("hrs[imax]")"
+
+  # bot
+  max=0
+  for (i in botip) if (botip[i]>max) {max=botip[i];imax=i}
+  print "Most bots IP: "imax"\t("botip[imax]")"
+
+  max=0
+  for (i in botua) if (botua[i]>max) {max=botua[i];imax=i}
+  print "Most bots UA: "imax"\t("botua[imax]")"
+
+  for (i in bot) print bot[i] | "sort | uniq"
+}
