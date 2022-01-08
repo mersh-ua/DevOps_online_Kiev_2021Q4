@@ -20,4 +20,8 @@ So he is a real anykey professional. In other words he is a hero nowadays.
 <li><h4><a href=m5/task5.2/readme.md>Lab 5.2 UNIX</a></h4>
 <li><h4><a href=m5/task5.3/readme.md>Lab 5.3 UNIX</a></h4>
 <li><h4><a href=m7/task7.1/readme.md>Lab 7.1 bash</a></h4>
+<li><h4><a href=m7/task7.2/readme.md>Lab 7.2 bash</a></h4>
+<li><h4><a href=m7/task7.3/readme.md>Lab 7.3 bash</a></h4>
+<li><h4><a href=m8/task8.1/readme.md>Lab 8.1 bash</a></h4>
+<li><h4><a href=m8/task8.2/readme.md>Lab 8.2 bash</a></h4>
 </ul>
