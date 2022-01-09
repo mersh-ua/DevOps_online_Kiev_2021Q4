@@ -11,8 +11,9 @@ done and easy to use inside local system
 
 ![](t8.1.0.png)
 
-Jupyter was installed on a Debian 11 guest OS. Jupyter Notebook runs as a local web service on port 8888. To connect to it from the host OS, we need to use an SSH tunnel.
-We can use PuTTY to create a tunnel. To configure the tunnel, we must go to Connection/SSH/Tunnels. There we set the source port to 8000 and the target socket to localhost:8888. After that, we can connect to the host OS and run Jupyter Notebook there.
+<p>Jupyter was installed on a Debian 11 guest OS. Jupyter Notebook runs as a local web service on port 8888. To connect to it from the host OS, we need to use an SSH tunnel.
+<p>We can use PuTTY to create a tunnel. To configure the tunnel, we must go to Connection/SSH/Tunnels. There we set the source port to 8000 and the target socket to localhost:8888. After that, we can connect to the host OS and run Jupyter Notebook there.
+<p>
 
 ### Part B / Basic exercises
 
