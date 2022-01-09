@@ -17,9 +17,7 @@ done and easy to use inside local system
 
 ### Part B / Basic exercises
 
-<details><summary>
-
-- A lot of screenshots</summary>
+- A lot of <details><summary>A lot of screenshots</summary>
 
 ![](t8.1.1.png)
 ![](t8.1.2.png)
