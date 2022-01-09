@@ -17,6 +17,8 @@ done and easy to use inside local system
 
 ### Part B / Basic exercises
 
+<summary>A lot of screenshots<details>
+
 ![](t8.1.1.png)
 ![](t8.1.2.png)
 ![](t8.1.3.png)
@@ -25,3 +27,8 @@ done and easy to use inside local system
 ![](t8.1.6.png)
 ![](t8.1.7.png)
 ![](t8.1.8.png)
+
+</details></summary>
+
+
+### Part C / Script
