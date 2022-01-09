@@ -12,7 +12,6 @@ def discriminant(a,b,c):
 
 def roots(a,b,c):
     d=discriminant(a,b,c)
-    print(d)
     if d<0:
         return (None,None)
     elif d>0:
