@@ -17,7 +17,7 @@ done and easy to use inside local system
 
 ### Part B / Basic exercises
 
-- A lot of <details><summary>A lot of screenshots</summary>
+<details><summary>A lot of screenshots</summary>
 
 ![](t8.1.1.png)
 ![](t8.1.2.png)
@@ -31,5 +31,6 @@ done and easy to use inside local system
 </details>
 
 
-### Part C / Script
+### Part C / Script for Solving a Quadratic Equation
 - <a href=laba8.py>laba8.py</a> source code
+- tests
