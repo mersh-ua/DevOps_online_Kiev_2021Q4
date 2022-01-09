@@ -17,7 +17,9 @@ done and easy to use inside local system
 
 ### Part B / Basic exercises
 
-<summary>A lot of screenshots<details>
+<details><summary>
+
+- A lot of screenshots</summary>
 
 ![](t8.1.1.png)
 ![](t8.1.2.png)
@@ -28,7 +30,8 @@ done and easy to use inside local system
 ![](t8.1.7.png)
 ![](t8.1.8.png)
 
-</details></summary>
+</details>
 
 
 ### Part C / Script
+- <a href=laba8.py>laba8.py</a> source code
