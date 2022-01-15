@@ -4,6 +4,7 @@
 ### Part A / script which scan for hosts in loacal network
 
 - <a href=laba7a>laba7a</a> source code
+- <a href=laba7a_output.png>few outputs</a> of laba7a script
 
 ### Part B / script which scan Apache logs and calculate statistics
 
