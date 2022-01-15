@@ -33,4 +33,4 @@ done and easy to use inside local system
 
 ### Part C / Script for Solving a Quadratic Equation
 - <a href=laba8.py>laba8.py</a> source code of main program
-- <a href=laba8test.py>laba8.py</a> source code of unittest program
+- <a href=laba8test.py>laba8test.py</a> source code of unittest program

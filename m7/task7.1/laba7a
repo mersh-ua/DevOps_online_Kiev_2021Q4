@@ -1,7 +1,18 @@
+function block1 {
+  nmap -sL `ip -br a s | awk '$1!~/lo/ {print $3}'`
+}
+
+function block2 {
+  [ $1 ] && nmap -sV $1 || synopsys
+}
+
+function synopsys {
+  echo "Usage: ${0##*/} --all | --target <IP>"
+  exit 1
+}
+
 case $1 in
---all)    echo block1;;
---target) echo block2;;
-*) echo "Usage: ${0##*/} --all | --target <IP>"; exit 1;;
+--all)    block1;;
+--target) block2 $2;;
+*)        synopsys;;
 esac
-
-
