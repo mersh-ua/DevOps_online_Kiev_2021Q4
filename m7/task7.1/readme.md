@@ -1,7 +1,7 @@
 # EPAM DevOps Curses</h1>
 ## Laba 7.1 bash scripting
 
-### Part A / script which scan for hosts in loacal network
+### Part A / script which scan for hosts in local network
 
 - <a href=laba7a>laba7a</a> source code
 - <a href=laba7a_output.png>few outputs</a> of laba7a script
