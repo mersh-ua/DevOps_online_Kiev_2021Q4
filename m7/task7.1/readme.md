@@ -10,3 +10,8 @@
 
 - <a href=all.stat>all.stat</a> source code
 - <a href=all.out>output</a> of pipeline cat *log | dos2unix | ./all.stat > all.out
+
+### Part C / script which synchronize two diretories
+
+- <a href=laba7c>laba7c</a> source code
+- <a href=laba7c.log>logfile</a> created by this script

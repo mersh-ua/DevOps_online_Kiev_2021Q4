@@ -1,0 +1,26 @@
+function synopsys {
+  (
+  echo "Usage: $CLI_CMD src_dir dst_dir"
+  echo -n "$CLI_CMD: "
+  case $1 in
+    src) echo $SRC_DIR not exist;;
+    dst) echo destionation directory not specified;;
+  esac
+  ) 1>&2
+  exit 1
+}
+
+CLI_CMD=${0##*/}
+SRC_DIR=$1
+DST_DIR=$2
+#LOG_DIR=/var/log/
+
+[ -e $SRC_DIR ] || synopsys src
+[    $DST_DIR ] || synopsys dst
+
+(
+echo  -------------------
+date +"%Y-%m-%d %H:%M:%S"
+echo rsync -vaHP --delete $SRC_DIR $DST_DIR
+) |
+tee -a ${LOG_DIR}${CLI_CMD}.log
