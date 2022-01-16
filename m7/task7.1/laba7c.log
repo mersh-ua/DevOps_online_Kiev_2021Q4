@@ -1,0 +1,24 @@
+-------------------
+2022-01-16 20:30:55
+sending incremental file list
+demo/
+demo/my_file
+              0 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=5/7)
+demo/x -> my_file
+demo/iii/
+demo/iii/delete_me
+              0 100%    0.00kB/s    0:00:00 (xfr#2, to-chk=2/7)
+demo/iii/yyy
+          1,769 100%    0.00kB/s    0:00:00            1,769 100%    0.00kB/s    0:00:00 (xfr#3, to-chk=0/7)
+demo/iii/ppp => demo/iii/yyy
+
+sent 2,147 bytes  received 104 bytes  4,502.00 bytes/sec
+total size is 3,545  speedup is 1.57
+-------------------
+2022-01-16 20:45:49
+sending incremental file list
+deleting demo/iii/delete_me
+demo/iii/
+
+sent 203 bytes  received 39 bytes  484.00 bytes/sec
+total size is 3,545  speedup is 14.65

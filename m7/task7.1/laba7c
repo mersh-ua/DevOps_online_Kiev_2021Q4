@@ -1,3 +1,5 @@
+#!/bin/bash
+
 function synopsys {
   (
   echo "Usage: $CLI_CMD src_dir dst_dir"
@@ -21,6 +23,6 @@ DST_DIR=$2
 (
 echo  -------------------
 date +"%Y-%m-%d %H:%M:%S"
-echo rsync -vaHP --delete $SRC_DIR $DST_DIR
+rsync -vaHP --delete $SRC_DIR $DST_DIR
 ) |
 tee -a ${LOG_DIR}${CLI_CMD}.log

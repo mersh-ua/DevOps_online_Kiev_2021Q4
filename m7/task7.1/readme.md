@@ -8,7 +8,7 @@
 
 ### Part B / script which scan Apache logs and calculate statistics
 
-- <a href=all.stat>all.stat</a> source code
+- <a href=all.stat>all.stat</a> awk source code
 - <a href=all.out>output</a> of pipeline cat *log | dos2unix | ./all.stat > all.out
 
 ### Part C / script which synchronize two diretories
