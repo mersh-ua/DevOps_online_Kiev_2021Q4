@@ -15,7 +15,7 @@ function synopsys {
 CLI_CMD=${0##*/}
 SRC_DIR=$1
 DST_DIR=$2
-#LOG_DIR=/var/log/
+LOG_DIR=/var/log/
 
 [ -e $SRC_DIR ] || synopsys src
 [    $DST_DIR ] || synopsys dst
